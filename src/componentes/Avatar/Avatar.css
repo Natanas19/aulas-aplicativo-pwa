@@ -1,0 +1,19 @@
+.avatar_root {
+    background-color: var(--cor-info);
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: grid;
+    place-content: center;
+    color: var(--cor-texto-claro);
+}
+
+.cabecalho_avatar {
+    background-color: var(--vinho-fraco);
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: grid;
+    place-content: center;
+    color: var(--cor-texto-claro);
+}
