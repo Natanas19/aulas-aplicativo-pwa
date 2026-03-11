@@ -1,0 +1,6 @@
+.botao-customizado_root {
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+    background-color: var(--dourado);
+}
